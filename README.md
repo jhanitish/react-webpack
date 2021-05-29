@@ -1,7 +1,9 @@
 # react-webpack
 
 ```
-A basic react app setup without using create-react-app. In this project we have used Webpack, Babel to do the setup of the react app with hot reload option.
+A basic react app setup without using create-react-app.
+
+In this project we have used Webpack, Babel to do the setup of the react app with hot reload option.
 
 ```
 
